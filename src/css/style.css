@@ -1,7 +1,10 @@
 :root {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
 }
 
 body {
-    background-color: purple;
+    margin: auto;
+    padding : 20px auto;
+    background-color: black;
 }
